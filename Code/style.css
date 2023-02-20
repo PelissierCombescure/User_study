@@ -9,3 +9,9 @@ body {
     left: 0px;
     background-color: rgba(34,34,34,0);
 }
+
+.container{
+    height:20px;
+    background-color: #CCC;
+    position: relative
+}
